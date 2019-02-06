@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1548688806 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1548688792 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\init.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"init.h"
+
+1548687259 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\init.h
+	"main.h"
+
+1548687628 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\main.h
+
+1548688925 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\fichier.c
+	<stdio.h>
+	<stdlib.h>
+	"fichier.h"
+
+1548687627 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\fichier.h
+	"main.h"
+
+1548687510 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+
+1548687626 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\affichage.h
+	"main.h"
+
+1548687624 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\cycle.c
+	<stdio.h>
+	<stdlib.h>
+	"cycle.h"
+
+1548687616 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\jeu de la vie\cycle.h
+	"main.h"
+
+1548687510 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+
+1548687626 c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\affichage.h
+	"main.h"
+
+1549304038 c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\main.h
+
+1549304002 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\cycle.c
+	<stdio.h>
+	<stdlib.h>
+	"cycle.h"
+
+1548687616 c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\cycle.h
+	"main.h"
+
+1548688792 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\init.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"init.h"
+
+1548687259 c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\init.h
+	"main.h"
+
+1548688806 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1548688951 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\fichier.c
+	<stdio.h>
+	<stdlib.h>
+	"fichier.h"
+
+1548687627 c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\5. jeu de la vie\fichier.h
+	"main.h"
+
